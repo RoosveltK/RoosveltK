@@ -8,9 +8,9 @@ Passionate about building scalable web applications and clean user experiences.
 ## 👀 Interests
 
 * Web application architecture
-* Front-end engineering (React / Angular)
+* Front-end engineering
 * API design & backend systems
-* Mobile apps with Ionic
+* Mobile apps
 * Performance and clean code
 
 ---
@@ -36,37 +36,11 @@ If you're building something interesting, feel free to reach out.
 
 ---
 
-## 🛠 Tech Stack
-
-**Frontend**
-
-* React
-* Angular
-* Ionic
-* TypeScript
-* HTML / CSS
-
-**Backend**
-
-* Django
-* Django REST Framework
-* REST APIs
-
-**Tools**
-
-* Git
-* Docker
-* Linux
-* CI/CD
-
----
-
 ## 📫 How to reach me
 
 * [RoosveltKN](https://roosveltkn.vercel.app/)
-* [Linkedind](https://www.linkedin.com/in/roosvelt-kenne/)
-* [X(twitter)](twitter.com/SafeRoos)
-* [Email](Roosvelt.kenne@gmail.com)
+* [Linkedin](https://www.linkedin.com/in/roosvelt-kenne/)
+* [X](https://x.com/SafeRoos)
 
 ---
 
