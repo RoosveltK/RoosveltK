@@ -36,12 +36,4 @@ If you're building something interesting, feel free to reach out.
 
 ---
 
-## 📫 How to reach me
-
-* [RoosveltKN](https://roosveltkn.vercel.app/)
-* [Linkedin](https://www.linkedin.com/in/roosvelt-kenne/)
-* [X](https://x.com/SafeRoos)
-
----
-
 ⭐ *Always learning, always building.*
